@@ -1,10 +1,6 @@
-# AmoCRM Leads Management with Nest.js and Vue.js
+# AmoCRM Leads Info with Nest.js and Vue.js
 
-This repository contains a project that integrates AmoCRM for managing leads using Nest.js for the backend and Vue.js for the frontend.
-
-## Project Overview
-
-This project aims to provide a seamless integration with AmoCRM to manage leads efficiently. It leverages Nest.js to handle the backend logic and Vue.js for the frontend interface, offering a robust and responsive user experience.
+This repository contains a project that integrates AmoCRM for displaying leads using Nest.js for the backend and Vue.js for the frontend.
 
 ## Features
 
